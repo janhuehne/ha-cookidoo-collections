@@ -17,5 +17,5 @@
     "cookidoo-api>=0.18.4"
   ],
   "single_config_entry": true,
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
