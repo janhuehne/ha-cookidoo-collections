@@ -1,0 +1,24 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Cookidoo Collections",
+        "description": "Sign in to expose custom Cookidoo collections (favorites lists) as a sensor for joined dashboards. Uses a separate session from the core Cookidoo integration.",
+        "data": {
+          "email": "Email",
+          "password": "Password",
+          "country": "Country",
+          "language": "Language (e.g. de-DE)"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Invalid email or password",
+      "cannot_connect": "Could not connect to Cookidoo",
+      "unknown": "Unexpected error"
+    },
+    "abort": {
+      "already_configured": "Cookidoo Collections is already configured"
+    }
+  }
+}
