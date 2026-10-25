@@ -14,8 +14,8 @@
     "custom_components.cookidoo_collections"
   ],
   "requirements": [
-    "cookidoo-api==0.18.4"
+    "cookidoo-api>=0.18.4"
   ],
   "single_config_entry": true,
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
